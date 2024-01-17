@@ -48,7 +48,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Streamlit: [https://streamlit.io/](https://streamlit.io/)
-- GenerativeAI: [Link to GenerativeAI documentation or source]
+- GenerativeAI: [https://ai.google/discover/generativeai/](https://ai.google/discover/generativeai/)
 
 ## Author
 
