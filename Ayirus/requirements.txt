@@ -1,6 +1,2 @@
 streamlit
 google-generativeai
-requests
-beautifulsoup4
-os 
-logging
